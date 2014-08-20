@@ -17,3 +17,9 @@ body {
 .navbar {
   margin-bottom: 0px;
 }
+
+.icon {
+  background-color: #00BF45;
+  margin-right: 5px;
+  height: 30px;
+}
