@@ -1,0 +1,11 @@
+.gs-mast {
+  padding: 80px 0;
+  position: relative;
+  background-color: #00B945;
+  background-image: linear-gradient(to bottom, #00B945, #00BF45);
+  text-align: center
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
