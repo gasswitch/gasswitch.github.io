@@ -3,9 +3,10 @@ title: Gas Switch
 email: your-email@domain.com
 description: "Gas Switch saves you money at the pump by focusing on <i>when</i> to buy gasoline."
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://www.gasswitch.es"
 twitter_username: gasswitch
 github_username:  gasswitch
+keywords: "Gas Forecasting, Gas Prediction, Android app, Buy Gas Today?"
 
 # Build settings
 markdown: kramdown
